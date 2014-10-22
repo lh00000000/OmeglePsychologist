@@ -1,6 +1,10 @@
 omeglepsychologist
 ==================
 
-currently: talks on omegle, sending E.L.I.Z.A. responses to strangers
+aim: therapeutic bot constantly running on omegle 
 
-goal: create installation where an automated psychoanalysis can be comfortably viewed as an unknown spectator
+currently uses eliza as placeholder bot
+
+requires:
+https://github.com/nikkiii/omegle-api-java
+JSON

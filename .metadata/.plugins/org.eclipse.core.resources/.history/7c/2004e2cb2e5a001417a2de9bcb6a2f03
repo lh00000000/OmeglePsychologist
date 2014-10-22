@@ -1,0 +1,40 @@
+package omegletherapist;
+
+public class ConversationStage {
+	String name;
+	int duration;
+	int elapsed;
+	boolean finished;
+	boolean success;
+	
+	
+	public ConversationStage(String _name, int _duration) {
+		name = _name;
+		duration = _duration;
+		elapsed = 0;
+		finished = false;
+		success = false;
+	}
+	
+	public void use() {
+		elapsed++;
+		if (elapsed > duration) 
+			finished = true;
+	}
+	
+	public void endPrematurely() {
+		finished = true;
+	}
+	
+	public boolean isFinished() {
+		return finished; 
+	}
+	
+	public boolean wasSuccess() {
+		return success;
+	}
+	
+	public String getStageName() {
+		return name;
+	}
+}

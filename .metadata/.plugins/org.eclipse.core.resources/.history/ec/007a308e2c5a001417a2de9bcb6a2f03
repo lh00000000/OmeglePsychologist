@@ -1,0 +1,25 @@
+package omegletherapist;
+
+public class ConversationStage {
+	String name;
+	int duration;
+	int elapsed;
+	boolean finished;
+	
+	public ConversationStage(String _name, int _duration) {
+		name = _name;
+		duration = _duration;
+		elapsed = 0;
+		finished = false;
+	}
+	
+	public void use() {
+		elapsed++;
+		if (elapsed > duration) 
+			finished = true;
+	}
+	
+	public boolean isFinished() {
+		returen finished; 
+	}
+}

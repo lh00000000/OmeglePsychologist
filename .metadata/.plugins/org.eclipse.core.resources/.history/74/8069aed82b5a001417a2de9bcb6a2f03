@@ -1,0 +1,13 @@
+package omegletherapist;
+
+public class ConversationStage {
+	String name;
+	int duration;
+	int elapsed;
+	public ConversationStage(String _name, int _duration, int elapsed) {
+		name = _name;
+		duration = _duration;
+		elapsed = _elapsed;
+		
+	}
+}

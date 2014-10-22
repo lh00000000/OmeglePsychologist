@@ -1,0 +1,9 @@
+package omegletherapist;
+
+public class ConversationStage {
+	String name;
+	int duration;
+	int elapsed;
+	public ConversationStage(String _name, ) {
+	}
+}

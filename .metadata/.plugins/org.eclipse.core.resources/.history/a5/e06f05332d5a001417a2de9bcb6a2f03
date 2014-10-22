@@ -1,0 +1,5 @@
+package omegletherapist;
+
+public class TypicalConversationProtocol implements ConversationProtocol {
+	virtual ArrayList<ConversationStage> stages;
+}

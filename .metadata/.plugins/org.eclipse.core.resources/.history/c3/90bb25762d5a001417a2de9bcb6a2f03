@@ -1,0 +1,7 @@
+package omegletherapist;
+
+import java.util.ArrayList;
+
+public class TypicalConversationProtocol implements ConversationProtocol {
+	ArrayList<ConversationStage> stages;
+}

@@ -1,0 +1,5 @@
+package omegletherapist;
+
+public interface ConversationProtocol {
+	ConversationStage[]; 
+}

@@ -14,7 +14,7 @@ import processing.opengl.PGraphics2D;
 
 public class OmeglePsychologist extends PApplet {
 
-//	saucon constants
+//	work constants
 //	public static final int pauseBeforeSaying = 40;
 //	public static final int icebreakerPause = 80;
 //	public static final int pauseSD = 3;

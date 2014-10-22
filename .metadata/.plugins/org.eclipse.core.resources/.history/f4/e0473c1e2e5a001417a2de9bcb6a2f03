@@ -1,0 +1,7 @@
+package omegletherapist;
+
+import java.util.ArrayList;
+
+public interface ConversationProtocol {
+	virtual ArrayList<ConversationStage> stages;
+}
