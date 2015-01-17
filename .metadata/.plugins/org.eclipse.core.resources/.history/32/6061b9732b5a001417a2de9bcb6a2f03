@@ -1,6 +1,0 @@
-package omegletherapist;
-
-public class ConversationStage {
-	String name;
-	
-}

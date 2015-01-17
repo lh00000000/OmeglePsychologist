@@ -1,5 +1,0 @@
-package omegletherapist;
-
-public class TypicalConversationProtocol extends ConversationProtocol {
-	
-}

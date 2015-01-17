@@ -1,0 +1,6 @@
+[submodule "omegle-api-java"]
+	path = omegle-api-java
+	url = https://github.com/nikkiii/omegle-api-java
+[submodule "JSON-java"]
+	path = JSON-java
+	url = https://github.com/douglascrockford/JSON-java
