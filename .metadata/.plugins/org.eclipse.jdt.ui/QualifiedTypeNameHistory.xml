@@ -3,4 +3,9 @@
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="omegletherapist.ConversationStage"/>
+<fullyQualifiedTypeName name="codeanticode.eliza.Eliza"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
 </qualifiedTypeNameHistroy>
