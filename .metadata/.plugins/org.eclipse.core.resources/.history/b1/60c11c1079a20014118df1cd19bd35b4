@@ -1,0 +1,35 @@
+package rewrite;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+import codeanticode.eliza.Eliza;
+import processing.core.PApplet;
+
+
+public class Rewrite extends PApplet {
+	Eliza eliza = new Eliza(this);
+	public void setup() {
+		String s = "";
+		Boolean nevermind = false;
+		while (nevermind) {
+		 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	        System.out.print("Enter String");
+	        try {
+				s = br.readLine();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+	        println(eliza.processInput(s));
+		}
+	}
+
+	public void draw() {
+	}
+	
+	public static void main(String _args[]) {
+		PApplet.main(new String[] { rewrite.Rewrite.class.getName() });
+	}
+}
