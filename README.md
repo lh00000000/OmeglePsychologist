@@ -9,8 +9,7 @@ This just basically just smashes these together:
 [omegle-eliza/cutey.jpg at master · lh00000000/omegle-eliza · GitHub](https://github.com/lh00000000/omegle-eliza/blob/master/assets/cutey.jpg)
 [[[omegle-eliza/cutey.jpg at master · lh00000000/omegle-eliza · GitHub](https://github.com/lh00000000/omegle-eliza/blob/master/assets/cutey.jpg)
 
----
-[[https://github.com/lh00000000/omegle-eliza/blob/master/assets/cutey.jpg|alt=anything on your mind cutey?]]
-[[https://github.com/lh00000000/omegle-eliza/blob/master/assets/fantasies.jpg|alt=perhaps in your fantasies we started talking to each other]]
-[[https://github.com/lh00000000/omegle-eliza/blob/master/assets/favor.jpg|alt=can you do me a favor?]]
-[[https://github.com/lh00000000/omegle-eliza/blob/master/assets/megan.jpg|alt=megan?]]
+![](https://github.com/lh00000000/omegle-eliza/blob/master/assets/cutey.jpg?raw=true)
+![](https://github.com/lh00000000/omegle-eliza/blob/master/assets/fantasies.jpg?raw=true)
+![](https://github.com/lh00000000/omegle-eliza/blob/master/assets/favor.jpg?raw=true)
+![](https://github.com/lh00000000/omegle-eliza/blob/master/assets/megan.jpg?raw=true)
